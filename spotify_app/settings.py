@@ -89,7 +89,7 @@ DATABASES = {
         'USER': 'root',
         'PASSWORD': 'cRXY8ReFCnJ6TQaF',
         'HOST': 'postgresql-rds-lumpy-durian-mx3e.c9g20kaogen1.us-west-2.rds.amazonaws.com',
-        'PORT': '5432'
+        'PORT': 5432
     }
 }
 
